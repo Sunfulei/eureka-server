@@ -12,3 +12,4 @@ eureka:
   server:
     enableSelfPreservation: false
     evictionIntervalTimerInMs: 4000
+    renewalPercentThreshold: 0.49
